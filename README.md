@@ -3,11 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/KhloodCs" target="blank">
+  <a href="https://twitter.com/KhloodCs" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg" alt="X" height="30" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/khloud-ayedh-alsofyani-77b24627b/" target="blank">
-    <img align="center" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="LinkedIn" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/khloud-ayedh-alsofyani-77b24627b/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
